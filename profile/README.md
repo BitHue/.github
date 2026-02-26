@@ -18,5 +18,5 @@ Dominamos las herramientas modernas para crear software de alta calidad:
 
 ## 📧 Contacto
 ¿Tienes un proyecto en mente? Hablemos.
-- **Email:** hola@bithue.com
+- **Email:** bithueco@gmail.com
 - **Web:** [bithue.com](https://bithue.com)
